@@ -144,3 +144,6 @@ A red fox leaping mid-air across a snow-covered meadow, snow crystals suspended 
 ## Vorschläge für Fotografen
 - Testen Sie unterschiedliche Brennweiten/Blenden im Prompt, um gewünschte Bokeh- und Tiefenwirkung zu erzielen.
 - Verwenden Sie Film- oder Kameramodel-Keywords (z. B. "Kodak Portra", "Leica M"), um spezifische Looks zu favorisieren.
+
+---
+Siehe auch [FLUX2](https://github.com/nyffenr/flux2-examples) Repo
